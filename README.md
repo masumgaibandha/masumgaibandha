@@ -3,9 +3,8 @@
 # Hi, I'm Abdullah Al Masum
 Full-Stack Developer specializing in React, TypeScript, Next.js, Node.js and MongoDB.
 I build scalable SaaS applications, business dashboards, internal tools and secure backend APIs that solve real business problems.
-
-Bangladesh  
-📧 masumgaibandha@gmail.com  
+  
+📧 masum@masumdev.com
 
 ---
 
