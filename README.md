@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/masumgaibandha/masumgaibandha/main/github-header-banner%20(4).png)
+![Banner](https://raw.githubusercontent.com/masumgaibandha/masumgaibandha/main/banner.png)
 
 # Hi, I'm Abdullah Al Masum
 Full-Stack Developer specializing in React, TypeScript, Next.js, Node.js and MongoDB.
